@@ -56,11 +56,11 @@ python evaluation.py
 
 BALD uncertainty with F1 scores
 
-![image-20220615201633898](/Users/minsuha/Active_learning_for_Few-NERD/pictures/image-20220615201633898.png)
+![image-20220615201633898](/pictures/image-20220615201633898.png)
 
 ### Heuristic_method 별 F1 scores
 
-![image-20220615201839646](/Users/minsuha/Active_learning_for_Few-NERD/pictures/image-20220615201839646.png)
+![image-20220615201839646](/pictures/image-20220615201839646.png)
 
 ## BAAL
 
